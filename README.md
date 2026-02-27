@@ -8,7 +8,7 @@ This repository contains the official Python implementation and data instances f
 - `main.py`: Main entry point for running the optimization using cyclic path generation algorithm across various scenarios.
 - `main_benchmark.py`: Script for running benchmark tests across various scenarios, using the label setting algorithm.
 - `summary.py`: Post-processing script to collect results, calculate gaps, and generate summary tables.
-- `data/`: Directory containing the instance data (Network structure, demands, capacities).
+- `data/`: Directory containing the instance data (Network structure, demands, capacities). Pleaze extract the `data.zip` first.
 <!-- * `tables/`: (Generated) Detailed computational results and summaries. -->
 
 ## Software Requirements
